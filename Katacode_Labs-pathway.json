@@ -1,5 +1,11 @@
 {
   "title": "Katacode_labs",
   "description": "This file contains a complete walkthrough on how to conquer Kubeflow.",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "test",
+      "title": "test microk8s",
+      "description": "test work"
+    }
+  ]
 }
