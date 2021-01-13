@@ -1,0 +1,3 @@
+Welcome to your first experience with Microk8s
+
+You willingness to learn is very crutial to the success of the course...
